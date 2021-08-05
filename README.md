@@ -1,8 +1,8 @@
 # **sena-base-info-2021 v1.1.0**
 
-## **Enlace GitHubPages**
+## **https://ecored-sena.github.io/GESTION_AGROEMPRESARIAL_INFO/**
 
-[https://ecored-sena.github.io/ECORED-BASE-INFO-2021/](https://ecored-sena.github.io/ECORED-BASE-INFO-2021/)
+[https://ecored-sena.github.io/GESTION_AGROEMPRESARIAL_INFO/](https://ecored-sena.github.io/GESTION_AGROEMPRESARIAL_INFO/)
 
 #
 
