@@ -14,7 +14,7 @@ section
             ul
               li.mb-3.banner-principal__datos__item
                 p.h6.mb-0.me-3.banner-principal__datos__item__titulo Nombre del programa: 
-                p.banner-principal__datos__item__texto atención Tecnología en Gestión Agroempresarial
+                p.banner-principal__datos__item__texto Tecnología en Gestión Agroempresarial
               li.mb-3.banner-principal__datos__item
                 p.h6.mb-0.me-3.banner-principal__datos__item__titulo Código: 
                 p.banner-principal__datos__item__texto 723179
