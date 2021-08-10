@@ -20,7 +20,7 @@ section
                 p.banner-principal__datos__item__texto 723179
               li.mb-3.banner-principal__datos__item
                 p.h6.mb-0.me-3.banner-principal__datos__item__titulo Total Horas: 
-                p.banner-principal__datos__item__texto 3689 horas
+                p.banner-principal__datos__item__texto 3984 horas
               li.mb-3.banner-principal__datos__item
                 p.h6.mb-0.me-3.banner-principal__datos__item__titulo Duración:  
                 p.banner-principal__datos__item__texto 27 meses
@@ -62,7 +62,7 @@ section
 
       br
       br
-      | Por este motivo, el programa “Tecnólogo en Gestión Agroempresarial” habilita al egresado por medio de una estrategia de formación por competencias para administrar y gestionar el proceso productivo y de mercadeo en la empresa agropecuaria, utilizando técnicas y estrategias de planeación, mercadeo, manejo contable y de personal, aplicando resultados de investigación y usando tecnologías de la información; adicionalmente, contará con habilidades sociales y trasversales al área de formación y productiva, con el fin último de optimizar la producción y productividad de empresas del sector, así como emprender en la creación de sistemas de explotación agroindustriales.
+      | Por este motivo, el programa “Tecnólogo en Gestión Agroempresarial” habilita al egresado por medio de una estrategia de formación por competencias para administrar y gestionar el proceso productivo y de mercadeo en la empresa agropecuaria, utilizando técnicas y estrategias de planeación, mercadeo, manejo contable y de personal, aplicando resultados de investigación y usando tecnologías de la información; adicionalmente, contará con habilidades sociales y transversales al área de formación y productiva, con el fin último de optimizar la producción y productividad de empresas del sector, así como emprender en la creación de sistemas de explotación agroindustriales.
 
 
   .container.tarjeta.tarjeta__template--azul-claro.p-4.p-md-5.mb-5(data-aos="fade-up")
@@ -85,7 +85,7 @@ section
             p Implementar acciones estratégicas de mercadeo de acuerdo con segmentos y escenarios del mercado.
           li
             i.lista-ul__vineta
-            p Dirigir el talento humano de acuerdo con normativa.
+            p Dirigir el talento humano de acuerdo con la normativa.
           li
             i.lista-ul__vineta
             p Contabilizar operaciones de acuerdo con las normas vigentes y políticas organizacionales.
@@ -168,10 +168,10 @@ section
             p #[b Edad Mínima Definida en la Ley: ] 15 años.
           li
             i.lista-ul__vineta
-            p #[b Requisitos Adicionales:] Presentar resultado de la prueba o examen de estado de la educación media  
+            p #[b Requisitos Adicionales:] presentar resultado de la prueba o examen de estado de la educación media  
           li
             i.lista-ul__vineta
-            p #[b Aspectos actitudinales, motivacionales y de interés:] Preferencia por el trabajo en ambientes rurales y productivos, con personal a cargo, crítico de la realidad en la que se desenvuelve, propositivo en la búsqueda de soluciones, asertivo en la comunicación y trabajo en equipo; organizado y veraz en el manejo de la información, hábil en el uso de herramientas tecnológicas. Interesado en temas ambientales y de producción de alimentos. 
+            p #[b Aspectos actitudinales, motivacionales y de interés:] preferencia por el trabajo en ambientes rurales y productivos, con personal a cargo, crítico de la realidad en la que se desenvuelve, propositivo en la búsqueda de soluciones, asertivo en la comunicación y trabajo en equipo; organizado y veraz en el manejo de la información, hábil en el uso de herramientas tecnológicas. Interesado en temas ambientales y de producción de alimentos. 
 
   .container.tarjeta.tarjeta__template--azul-claro.p-4.p-md-5.mb-5(data-aos="fade-up")
     .titulo__template--a.mb-4
